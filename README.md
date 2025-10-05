@@ -1,4 +1,1 @@
-# lispingOFF
-This is my first Git Repository.
-<br> 
-Author - Shubham Prajapati
+this is my lazy-repo, i push here on my lazy days.
